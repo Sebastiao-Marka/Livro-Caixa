@@ -4,8 +4,8 @@ Tenha um livro caixa na palma de sua mão. agora voce pode abandonar o livro cai
 
 ## Screenshots do App
 
-| Tela Inicial | Cadastro de Gasto |
-|:---:|:---:|
+| Tela Inicial | Cadastro de Gasto |  | ||  | ||  | |
+|:---:|:---:||:---:|:---:||:---:|:---:||:---:|:---:|
 | <img src="screenshots/img.jpeg" width="300"> | <img src="screenshots/img1.png" width="300"> | <img src="screenshots/img2.png" width="300"> | <img src="screenshots/img3.jpeg" width="300">  <img src="screenshots/img6.jpeg" width="300"> | <img src="screenshots/img5.jpeg" width="300"> | <img src="screenshots/img7.jpeg" width="300"> |  <img src="screenshots/img8.jpeg" width="300"> | <img src="screenshots/img9.jpeg" width="300"> | <img src="screenshots/img10.jpeg" width="300"> |
 
 
